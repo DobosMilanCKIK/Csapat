@@ -1,2 +1,6 @@
 Tartalom
+<<<<<<< HEAD
 Dobos Milán KristóF
+=======
+Kari Levente
+>>>>>>> 02c5444e437b134b47dc7b1094075071a55334ed
